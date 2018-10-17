@@ -1,0 +1,2 @@
+model_checkpoint_path: "gs-traffic-model"
+all_model_checkpoint_paths: "gs-traffic-model"
